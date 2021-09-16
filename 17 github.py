@@ -11,3 +11,4 @@ if isit == no:
 else:
     print("You\'re correct.")
 time.sleep(2)
+print("Bye now.")
